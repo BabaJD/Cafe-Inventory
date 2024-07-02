@@ -1,6 +1,5 @@
-# Cafe-Inventory
+# Cafe-Inventory Value Calculator
 A software solution in Python for efficient inventory management in a cafe
-# Cafe Inventory Value Calculator
 
 ## Description
 
